@@ -42,7 +42,7 @@
       for (let i = 1; i <= Math.min(n, 10); i++) {
         console.log(i);
       }
-    } // time complexity of function is O(n)
+    } // time complexity of function is O(1)
     ```
 
     Time complexity = O(1)
